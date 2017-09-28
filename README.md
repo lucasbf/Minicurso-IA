@@ -1,2 +1,5 @@
 # Minicurso-IA
-Materiais do minicurso de Inteligência Artificial
+
+Materiais do minicurso de Inteligência Artificial com foco em *datascience*.
+
+
